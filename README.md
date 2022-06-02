@@ -8,13 +8,17 @@
 
   My name is Henrique. I am a Frontend Developer based in Brazil 🇧🇷.
 
-  - 🤓 I really like to use Angular and Vue in my projects. 
+   ## About me
 
-  - ❤️ Oh, I love TypeScript as well! Thus, I always try using it in my projects. 
+  - 🤓 I like to use Angular for big projects and Vue for crafting ideas. 
 
-  - 📖  I like creating content about the frontend at the Code Dimension blog. [Take a look](https://codedimension.com.br/) 🔗
+  - ❤️ Oh, I love TypeScript! I use it in everything. 
   
-  - 🧑‍🎓 Always studyng new stuffs.
+  - 🤔  I believe that, some day, the world will speak Typescript rather than English.
+
+  - 📖  I write posts about what I'm studing lately and tips related to home office. [Check it out](https://codedimension.com.br/) 🔗
+  
+  - 🧑‍🎓 Spent weekends studyng new stuffs is my hobby.
 
 <hr>
 
