@@ -18,7 +18,7 @@
 
   - 📖  I write posts about what I'm studing lately and tips related to home office. [Check it out](https://codedimension.com.br/) 🔗
   
-  - 🧑‍🎓 Spent weekends studyng new stuffs is my hobby.
+  - 🧑‍🎓 Spend weekends studyng new stuffs is my hobby.
 
 <hr>
 
