@@ -13,8 +13,6 @@
   - 🤓 I like to use Angular for big projects and Vue for crafting ideas. 
 
   - ❤️ Oh, I love TypeScript! I use it in everything. 
-  
-  - 🤔  I believe that, some day, the world will speak Typescript rather than English.
 
   - 📖  I write posts about what I'm studing lately and tips related to home office. [Check it out](https://codedimension.com.br/) 🔗
   
