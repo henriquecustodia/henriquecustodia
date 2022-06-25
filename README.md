@@ -1,6 +1,12 @@
  # Hey there! 🤙
  
- I'm a Frontend Developer that love learning new things. Typescript & Linux lover ❤️. 
+ I'm a Frontend Developer that love learning new things. Constantly looking for innovative ways to create clean architeture on frontend apps. Clean code evangelist.      
+ 
+Typescript & Linux lover ❤️. 
+
+I'm currently diving in ReactjS. 
+
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,nuxtjs,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
 
 <hr>
 
