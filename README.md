@@ -10,5 +10,8 @@ I'm currently diving in ReactjS.
 
 <hr>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecustodia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecustodia&show_icons=true&theme=radical)
+
