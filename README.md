@@ -1,6 +1,6 @@
  # Hey there! 🤙
  
- I'm a Frontend Developer that love learning new things. Constantly looking for innovative ways to create clean architeture on frontend apps. Clean code evangelist.      
+ I'm a Frontend Developer that love learning new things. Constantly looking for innovative ways to create better frontend apps. Clean code evangelist.      
  
 Typescript & Linux lover ❤️. 
 
