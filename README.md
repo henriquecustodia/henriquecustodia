@@ -4,8 +4,6 @@
  
 Typescript & Linux lover ❤️. 
 
-I'm currently diving in ReactjS. 
-
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,nuxtjs,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
 
 <hr>
